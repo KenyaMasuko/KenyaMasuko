@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenyaMasuko
-- 👀 I’m interested in JavaScript, especially Vue.js , also interested in WebGL!!
+- 👀 I’m interested in JavaScript, especially React , also interested in WebGL!!
 - 🌱 I’m currently learning frontend Tech in working.
 
 <!---
