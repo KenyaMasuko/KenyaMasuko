@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KenyaMasuko
+- 👋 Hi, I’m KenyaMasuko
 - 👀 I’m interested in JavaScript, especially React , also interested in WebGL!!
 - 🌱 I’m currently learning frontend Tech in working.
 
