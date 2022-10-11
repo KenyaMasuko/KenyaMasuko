@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **recoil, next.js**
 
-- 💬 Ask me about **react, next and gsap**
+- 💬 Ask me about **react, next.js and typescript**
 
 <p align="left">
 </p>
