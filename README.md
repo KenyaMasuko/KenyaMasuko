@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenya Masuko</h1>
-<h3 align="center">A junior frontend developer from Tokyo, Japan</h3>
+<h3 align="center">A junior frontend developer in Tokyo, Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenyamasuko&label=Profile%20views&color=0e75b6&style=flat" alt="kenyamasuko" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/k_e1sh1n" target="blank"><img src="https://img.shields.io/twitter/follow/k_e1sh1n?logo=twitter&style=for-the-badge" alt="k_e1sh1n" /></a> </p>
 
-- 🌱 I’m currently learning **recoil, next.js**
+- 🌱 I’m currently learning **next.js**
 
-- 💬 Ask me about **react, next and gsap**
+- 💬 Ask me about **frontend tech like react, next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
