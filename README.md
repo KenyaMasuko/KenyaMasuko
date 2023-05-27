@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/k_e1sh1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_e1sh1n" height="30" width="40" /></a>
+<a href="https://twitter.com/kenchan_dayoooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_e1sh1n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
