@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/k_e1sh1n" target="blank"><img src="https://img.shields.io/twitter/follow/k_e1sh1n?logo=twitter&style=for-the-badge" alt="k_e1sh1n" /></a> </p>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Next.js** and **Laravel, PHP**
 
-- 💬 Ask me about **frontend tech like react, next.js**
+- 💬 Ask me about **frontend tech like React, Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
