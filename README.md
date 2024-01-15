@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenya Masuko</h1>
-<h3 align="center">A junior web developer in Tokyo, Japan</h3>
+<h3 align="center">A web developer in Tokyo, Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenyamasuko&label=Profile%20views&color=0e75b6&style=flat" alt="kenyamasuko" /> </p>
 
